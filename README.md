@@ -2,13 +2,10 @@
 <h3 align="center"> I'm Xuan Hieu from Vietnam 🇻🇳</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[Link_LinkedIn]" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
   <a href="https://facebook.com/[Link_Facebook]" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
   </a>
-  <a href="mailto:[Email_Cua_Ban]@gmail.com" target="_blank">
+  <a href="mailto:hieutraii2005@gmail.com" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
   </a>
 </p>
