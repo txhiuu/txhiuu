@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hi . Have a good day </h1>
-<h3 align="center"> I'm Xuan Hieu from Vietnam 🇻🇳</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF007F&center=true&vCenter=true&width=435&lines=I'm+Xuan+Hieu+from+Vietnam;Frontend+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://facebook.com/[Link_Facebook]" target="_blank">
