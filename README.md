@@ -18,7 +18,14 @@
 ### 🎮 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/txhiuu/txhiuu/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="100%" />
+  <picture>
+    <!-- Tự động hiển thị bản Dark Mode khi người xem bật chế độ tối -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/txhiuu/txhiuu/output/pacman-contribution-graph-dark.svg">
+    <!-- Tự động hiển thị bản Light Mode khi người xem dùng chế độ sáng -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/txhiuu/txhiuu/output/pacman-contribution-graph.svg">
+    <!-- Ảnh dự phòng nếu trình duyệt không hỗ trợ -->
+    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/txhiuu/txhiuu/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 ---
