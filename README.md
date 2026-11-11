@@ -45,11 +45,11 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=txhiuu&theme=tokyonight" alt="GitHub Profile Details" width="100%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=txhiuu&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=txhiuu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=txhiuu&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=txhiuu&theme=tokyonight" alt="GitHub Profile Details" width="100%" />
 </p>
 
 ---
