@@ -12,7 +12,7 @@
 
 ---
 
-### 🎮 Contribution Activity
+I am passionate about technology, especially in Mobile App Development. I enjoy learning, exploring new knowledge, and actively contributing to open-source projects for the community.
 
 <p align="center">
   <picture>
