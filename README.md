@@ -45,7 +45,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=txhiuu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=txhiuu&theme=tokyonight" alt="GitHub Profile Details" width="100%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=txhiuu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
@@ -53,24 +53,3 @@
 </p>
 
 ---
-
-### 🌟 Featured Projects
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3>🔴 Pokédex App ⚪</h3>
-      <a href="[Link_Repo_Pokedex]">
-        <img src="[Link_Ảnh_Screenshot_App_Cua_Ban]" alt="Pokedex" width="90%" style="border-radius: 10px;" />
-      </a>
-      <p align="center">A full-stack Pokédex app using React Native, Node.js and Google Gemini AI for image recognition.</p>
-    </td>
-    <td width="50%" align="center">
-      <h3>💻 [Tên Dự Án Khác]</h3>
-      <a href="[Link_Repo_Khac]">
-        <img src="https://via.placeholder.com/400x200.png?text=Project+Image" alt="Project" width="90%" style="border-radius: 10px;" />
-      </a>
-      <p align="center">Mô tả ngắn gọn về dự án tiếp theo của bạn.</p>
-    </td>
-  </tr>
-</table>
