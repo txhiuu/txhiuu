@@ -15,6 +15,14 @@
 
 ---
 
+### 🎮 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/txhiuu/txhiuu/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="100%" />
+</p>
+
+---
+
 ### 🚀 About Me
 - 🌱 I’m currently learning **React Native, Node.js, and AI Integration**
 - 💬 Ask me about **React, TypeScript, and Mobile App Development**
